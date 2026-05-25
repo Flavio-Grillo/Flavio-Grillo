@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Flávio
 
-<!--
-**Flavio-Grillo/Flavio-Grillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em evolução (Java / Back-end)  
+🎮 Estudando Game Design e programação com Java  
+🎯 Voltando a programar após um tempo parado  
+🚀 Focado em consistência e evolução contínua  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+- 🎓 Formado em área de tecnologia  
+- 🎮 Estudando Java aplicado a Game Design  
+- 🧩 Interesse em desenvolvimento de jogos, APIs e sistemas  
+- 🔁 Recomeçando minha jornada na programação com foco e disciplina  
+
+---
+
+## 📚 Atualmente estudando
+
+- ☕ Java (fundamentos e prática)
+- 🎮 Game Design com programação
+- 🔧 Git e GitHub
+- 🧠 Lógica de programação
+- 🌐 APIs REST (em breve)
+
+---
+
+## 🚧 Objetivo
+
+Construir uma carreira como desenvolvedor, unindo programação e game design, criando projetos reais e evoluindo de forma constante.
+
+---
+
+## 📌 Projetos
+
+🛠️ Em breve...
+
+---
+
+## 📫 Contato
+
+- GitHub: @Flavio-Grillo
