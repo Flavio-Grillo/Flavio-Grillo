@@ -2,9 +2,10 @@
 
 ```
 ╔════════════════════════════════╗
-║       FLAVIO GRILLO           ║
-║   BACK-END DEVELOPER         ║
-║   JAVA • GAMES • APIs        ║
+║        FLAVIO GRILLO           ║
+║     Developer in Progress      ║
+║     Java • Back-end • Games    ║
+║     Learning Daily             ║
 ╚════════════════════════════════╝
 ```
 
@@ -32,6 +33,18 @@
 - 🔧 Git e GitHub
 - 🧠 Lógica de programação
 - 🌐 APIs REST (em breve)
+
+---
+
+```
+        /\_/\  
+       ( •.• )  
+       /| 💻 |\  
+      /_|____|_\
+        coding...
+```
+
+
 
 ---
 
