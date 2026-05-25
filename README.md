@@ -1,10 +1,12 @@
 # 👋 Olá, eu sou o Flávio
 
+```
 ╔════════════════════════════════╗
-║         FLAVIO GRILLO         ║
-║     BACK-END DEVELOPER        ║
-║     JAVA • GAMES • APIs       ║
+║       FLAVIO GRILLO           ║
+║   BACK-END DEVELOPER         ║
+║   JAVA • GAMES • APIs        ║
 ╚════════════════════════════════╝
+```
 
 
 💻 Desenvolvedor em evolução (Java / Back-end)  
