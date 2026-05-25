@@ -1,5 +1,14 @@
 # 👋 Olá, eu sou o Flávio
 
+
+███████╗██╗      █████╗ ██╗   ██╗██╗ ██████╗ 
+██╔════╝██║     ██╔══██╗██║   ██║██║██╔═══██╗
+█████╗  ██║     ███████║██║   ██║██║██║   ██║
+██╔══╝  ██║     ██╔══██║╚██╗ ██╔╝██║██║   ██║
+██║     ███████╗██║  ██║ ╚████╔╝ ██║╚██████╔╝
+╚═╝     ╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝ ╚═════╝  
+
+
 💻 Desenvolvedor em evolução (Java / Back-end)  
 🎮 Estudando Game Design e programação com Java  
 🎯 Voltando a programar após um tempo parado  
